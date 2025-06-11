@@ -9,5 +9,10 @@ namespace testapp
     internal class animal
     {
         public string espece { get; set; }
+
+        /// <summary>
+        /// âge
+        /// </summary>
+        public string age { get; set; }
     }
 }
